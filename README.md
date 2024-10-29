@@ -52,11 +52,11 @@
 <body>
   <div class="container">
     <img src="https://bpic.588ku.com/element_origin_min_pic/19/03/07/91a550a5f58df34f52eb063d085370c5.jpg"
-      class="animated" id="image1" height="150" width="150">
+      class="animated" id="image1" height="150" width="300">
     <img src="https://bpic.588ku.com/element_origin_min_pic/19/03/07/91a550a5f58df34f52eb063d085370c5.jpg"
-      class="animated" id="image2" height="150" width="150">
+      class="animated" id="image2" height="150" width="300">
     <img src="https://bpic.588ku.com/element_origin_min_pic/19/03/07/91a550a5f58df34f52eb063d085370c5.jpg"
-      class="animated" id="image3" height="150" width="150">
+      class="animated" id="image3" height="150" width="300">
   </div>
 
   <script>
